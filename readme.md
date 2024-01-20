@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Leonie Hagitte</a></b>
         </samp>
 </h3>
 
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Masters Student in Psychology at Humboldt University from <b>Berlin</b> 」
     <br>
     <br>
   </samp>
@@ -65,10 +65,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ ✌️ &emsp; Enjoy talking about Science and sharing Knowledge as well as Methods and Psychology <br/><br/>
+ ❤️ &emsp; Love to chat and get input as well as learning new things<br/><br/>
+ 📧 &emsp; Reach me anytime:  hagitte@mpib-berlin.mpg.de<br/><br/>
 
 </p>
 
