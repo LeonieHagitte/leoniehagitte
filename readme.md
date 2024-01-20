@@ -62,6 +62,7 @@
 
 ## Use To Code
 
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -69,11 +70,12 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
-## Top Open Source -
-[![shiny-workshop](https://github-readme-stats.vercel.app/api/pin/?username=LeonieHagitte&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeonieHagitte/shiny-workshop-2023)
-[![githubintro](https://github-readme-stats.vercel.app/api/pin/?username=LeonieHagitte&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeonieHagitte/githubintro)
-[![https://github.com/LeonieHagitte/Taxonomy.jl](https://github-readme-stats.vercel.app/api/pin/?username=LeonieHagitte&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeonieHagitte/https://github.com/LeonieHagitte/Taxonomy.jl)
-[![ShareSEM](https://github-readme-stats.vercel.app/api/pin/?username=LeonieHagitte&repo=LeonieHagitte&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeonieHagitte/ShareSEM)
+## Top Open Source
+
+[![shiny-workshop](https://github-readme-stats.vercel.app/api/pin/?username=LeonieHagitte&repo=shiny-workshop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeonieHagitte/shiny-workshop-2023)
+[![githubintro](https://github-readme-stats.vercel.app/api/pin/?username=LeonieHagitte&repo=githubintro&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeonieHagitte/githubintro)
+[![Taxonomy.jl](https://github-readme-stats.vercel.app/api/pin/?username=LeonieHagitte&repo=Taxonomy.jl&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeonieHagitte/Taxonomy.jl)
+[![ShareSEM](https://github-readme-stats.vercel.app/api/pin/?username=LeonieHagitte&repo=ShareSEM&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeonieHagitte/ShareSEM)
 
 <p align="left">
   <a href="https://github.com/LeonieHagitte?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -82,6 +84,7 @@
 <br/>
 <hr/>
 <br/>
+
 
 <p align="center">
   <a href="https://github.com/LeonieHagitte">
