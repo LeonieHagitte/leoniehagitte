@@ -49,15 +49,11 @@
  
 <p>
  <img align="right" width="340" src="/assets/peng.gif" alt="peng.gif" />
-👩 &emsp; Pronouns: She/her  
-   <br/><br/>
 🔭 &emsp; I’m currently working on my Masters Thesis as well as on a project regarding MNLFA
    <br/><br/>
 🌱 &emsp; I’m currently learning quarto, a lot about scale development and Data Literacy  
    <br/><br/>
-✌️ &emsp; Enjoy talking about Science, sharing Knowledge as well as Methods and Psychology  
-   <br/><br/>
-❤️ &emsp; Love to chat and get input as well as learning new things  
+❤️ &emsp; Enjoy talking about Science, sharing Knowledge as well as Methods and Psychology  
    <br/><br/>
 📧 &emsp; Reach me anytime: hagitte@mpib-berlin.mpg.de  
    <br/><br/>
