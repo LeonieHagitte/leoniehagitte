@@ -55,7 +55,7 @@
    <br/><br/>
 🌱 &emsp; I’m currently learning quarto, a lot about scale development and Data Literacy  
    <br/><br/>
-✌️ &emsp; Enjoy talking about Science and sharing Knowledge as well as Methods and Psychology  
+✌️ &emsp; Enjoy talking about Science, sharing Knowledge as well as Methods and Psychology  
    <br/><br/>
 ❤️ &emsp; Love to chat and get input as well as learning new things  
    <br/><br/>
