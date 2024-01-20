@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Leonie+Hagitte">「 Google Me 」</a>
     <br>
     「 I am a Masters Student in Psychology at Humboldt University from <b>Berlin</b> 」
     <br>
