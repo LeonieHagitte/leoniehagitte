@@ -48,7 +48,7 @@
  # About me
  
 <p>
- <img align="right" width="340" src="/assets/mc.gif" alt="stem.gif" />
+ <img align="right" width="340" src="/assets/stem.gif" alt="stem.gif" />
 👩 &emsp; Pronouns: She/her  
    <br/><br/>
 🔭 &emsp; I’m currently working on my Masters Thesis as well as on a project regarding MNLFA
