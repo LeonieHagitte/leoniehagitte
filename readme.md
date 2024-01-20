@@ -48,7 +48,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/mc.gif" alt="Coding gif" />
+ <img align="right" width="340" src="/assets/mc.gif" alt="Coding gif" />
  👩 &emsp; Pronouns: She/her <br/><br/>
  🔭 &emsp; I’m currently working on my Masters Thesis as well as on a project regarding Moderated Nonlinear Factor Analysis <br/><br/>
  🌱 &emsp; I’m currently learning quarto presentations, a lot about scale development and Data Literacy <br/><br/>
