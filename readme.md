@@ -68,11 +68,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 <br/>
-
-## Top Open Source -
-
 ## Top Open Source -
 [![shiny-workshop](https://github-readme-stats.vercel.app/api/pin/?username=LeonieHagitte&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeonieHagitte/shiny-workshop-2023)
 [![githubintro](https://github-readme-stats.vercel.app/api/pin/?username=LeonieHagitte&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeonieHagitte/githubintro)
