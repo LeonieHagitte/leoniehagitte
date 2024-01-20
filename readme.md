@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <a href="https://www.researchgate.net/profile/Leonie-Hagitte">
-  <img src="https://media.licdn.com/dms/image/D4D12AQGgG6Yn5_MU8Q/article-inline_image-shrink_1500_2232/0/1693296863581?e=1710374400&v=beta&t=Z-6Uh94yXqwSLBu_i6OPSbQ_BDwPgD9cU0h6eoEWYdY" alt="alsiam" width="80" />
+  <img src="https://media.licdn.com/dms/image/D4D12AQGgG6Yn5_MU8Q/article-inline_image-shrink_1500_2232/0/1693296863581?e=1710374400&v=beta&t=Z-6Uh94yXqwSLBu_i6OPSbQ_BDwPgD9cU0h6eoEWYdY" alt="alsiam" width="85" />
  </a> 
 </p>
 <br />
