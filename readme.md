@@ -49,11 +49,12 @@
  
 <p>
  <img align="right" width="350" src="/assets/mc.gif" alt="Coding gif" />
-  
+ 👩 &emsp; Pronouns: She/her <br/><br/>
+ 🔭 &emsp; I’m currently working on my Masters Thesis as well as on a project regarding Moderated Nonlinear Factor Analysis <br/><br/>
+ 🌱 &emsp; I’m currently learning quarto presentations, a lot about scale development and Data Literacy <br/><br/>
  ✌️ &emsp; Enjoy talking about Science and sharing Knowledge as well as Methods and Psychology <br/><br/>
  ❤️ &emsp; Love to chat and get input as well as learning new things<br/><br/>
  📧 &emsp; Reach me anytime:  hagitte@mpib-berlin.mpg.de<br/><br/>
-
 </p>
 
 <br/>
