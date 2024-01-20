@@ -48,7 +48,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/scientist-gif.gif.html" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy talking about Science and sharing Knowledge as well as Methods and Psychology <br/><br/>
  ❤️ &emsp; Love to chat and get input as well as learning new things<br/><br/>
