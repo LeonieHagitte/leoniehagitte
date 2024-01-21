@@ -17,11 +17,11 @@
 </a>
 
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank">Leonie Hagitte</a></b>
         </samp>
-</h3>
+</h2>
 
 
 <p align="center"> 
