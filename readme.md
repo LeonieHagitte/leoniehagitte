@@ -101,23 +101,6 @@
   </a> 
 </p>
 
-#Generates a snake game from a github user contributions graph
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LeonieHagitte/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/LeonieHagitte/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-#Pull a github user's contribution graph.
-#Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
-
-Generate a [gif](https://github.com/LeonieHagitte/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/LeonieHagitte/snk/raw/output/github-contribution-grid-snake.svg) image.
-
 <a> 
     <a href="https://github.com/LeonieHagitte"><img alt="Leonie Hagitte's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LeonieHagitte&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/LeonieHagitte"><img alt="Leonie Hagitte's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LeonieHagitte&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
