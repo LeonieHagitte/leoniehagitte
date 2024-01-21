@@ -98,7 +98,8 @@
 <p align="center">
   <a href="https://github.com/LeonieHagitte">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonieHagitte&theme=radical" alt="Leonie Hagitte's GitHub Contribution"/>
-  </a>
+  </a> 
+![Snake animation](https://LeonieHagitte.github.io/LeonieHagitte/github-contribution-grid-snake.svg)
 </p>
 
 <a> 
@@ -108,5 +109,3 @@
 </a>
 
 ![Leonie Hagitte's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonieHagitte&custom_title=Leonie%20Hagitte's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-![Snake animation](https://LeonieHagitte.github.io/LeonieHagitte/github-contribution-grid-snake.svg)
