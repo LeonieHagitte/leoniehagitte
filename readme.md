@@ -99,8 +99,9 @@
   <a href="https://github.com/LeonieHagitte">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonieHagitte&theme=radical" alt="Leonie Hagitte's GitHub Contribution"/>
   </a> 
-![Snake animation](https://LeonieHagitte.github.io/LeonieHagitte/github-contribution-grid-snake.svg)
 </p>
+
+![Snake animation](https://LeonieHagitte.github.io/LeonieHagitte/github-contribution-grid-snake.svg)
 
 <a> 
     <a href="https://github.com/LeonieHagitte"><img alt="Leonie Hagitte's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LeonieHagitte&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
