@@ -48,7 +48,7 @@
  # About me
  
 <p>
- <img align="right" width="340" src="/assets/peng.gif" alt="peng.gif" />
+ <img align="right" width="340" src="/assets/stem.gif" alt="stem.gif" />
 🔭 &emsp; I’m currently working on my Masters Thesis as well as on a project regarding MNLFA
    <br/><br/>
 🌱 &emsp; I’m currently learning quarto, a lot about scale development and Data Literacy  
