@@ -34,16 +34,6 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="https://linkedin.com/in/Leonie-Hagitte" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LeonieHagitte"/>
- </a>
- <a href="https://www.researchgate.net/profile/Leonie-Hagitte">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" alt="LeonieHagitte" width="85" />
- </a> 
-</p>
-<br />
-
 <!-- About Section -->
  # About me
  
