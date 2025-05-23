@@ -28,7 +28,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Leonie+Hagitte">「 Google Me 」</a>
     <br>
-    「 I am a Masters Student in Psychology at Humboldt University from <b>Berlin</b> 」
+    「 PhD candidate in quantitative research methods/ Pszchology at Goethe University Frankfurt, with research conducted in collaboration with MSB Medical School Berlin and the Max Planck Institute for Human Development, <b>Berlin</b> (LIFE Fellow) 」
     <br>
     <br>
   </samp>
