@@ -28,7 +28,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Leonie+Hagitte">「 Google Me 」</a>
     <br>
-    「PhD candidate in quantitative research methods/ Pszchology at Goethe University Frankfurt, with research conducted in collaboration with MSB Medical School Berlin and the Max Planck Institute for Human Development, <b>Berlin</b> (LIFE Fellow)」
+    「I am a PhD candidate in quantitative research methods/ Pszchology at Goethe University Frankfurt, with research conducted in collaboration with MSB Medical School Berlin and the Max Planck Institute for Human Development, <b>Berlin</b> (LIFE Fellow)」
     <br>
     <br>
   </samp>
@@ -37,10 +37,8 @@
 <!-- About Section -->
  # About me
  
-<p> <img align="right" width="340" src="/assets/peng.gif" alt="peng.gif" /> 🔬 &emsp; <span style="padding-left: 2em;">My research centers on <strong>measurement invariance</strong> — currently, I’m conducting a Monte Carlo simulation study comparing <strong>MNLFA</strong> and <strong>SEM-Trees</strong> for detecting DIF and invariance violations</span> <br/><br/> 📚 &emsp; I have an academic background in <strong>measurement/ diagnostics</strong> and psychometrics, with a growing interest in simulation-based methods and advanced latent variable modeling <br/><br/> ❤️ &emsp; I’m passionate about science communication, sharing methods knowledge, and open psychological research <br/><br/> 📧 &emsp; Reach me anytime: hagitte@mpib-berlin.mpg.de <br/><br/> 
+<p> <img align="right" width="340" src="/assets/peng.gif" alt="peng.gif" /> 🔬 &emsp; <span style="padding-left: 2em;">My research centers on <strong>Measurement Invariance</strong> — currently, I’m conducting a Monte Carlo simulation study comparing <strong>MNLFA</strong> and <strong>SEM-Trees</strong> for detecting DIF and invariance violations</span> <br/><br/> 📚 &emsp; I have an academic background in <strong>measurement/ diagnostics</strong> and psychometrics, with a growing interest in simulation-based methods and advanced latent variable modeling <br/><br/> ❤️ &emsp; I’m passionate about science communication, sharing methods knowledge, and open psychological research <br/><br/> 📧 &emsp; Reach me anytime: hagitte@mpib-berlin.mpg.de <br/><br/> 
 </p>
-
-<br/>
 <br/>
 <br/>
 
