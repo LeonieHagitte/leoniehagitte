@@ -47,7 +47,7 @@
 <!-- About Section -->
  # About me
  
-<p> <img align="right" width="340" src="/assets/stem.gif" alt="stem.gif" /> 🎓 &emsp; I’m currently pursuing my PhD at Goethe University Frankfurt, funded through MSB Medical School Berlin and as a LIFE Fellow at the Max Planck Institute for Human Development <br/><br/> 🔬 &emsp; My research centers on **measurement invariance** — currently, I’m conducting a Monte Carlo simulation study comparing **MNLFA** and **SEM-Trees** for detecting DIF and invariance violations <br/><br/> 📚 &emsp; I have a strong academic background in **measurement theory** and psychometrics, with a growing interest in simulation-based methods and advanced latent variable modeling <br/><br/> ❤️ &emsp; I’m passionate about science communication, sharing methods knowledge, and open psychological research <br/><br/> 📧 &emsp; Reach me anytime: hagitte@mpib-berlin.mpg.de <br/><br/>
+<p> <img align="right" width="340" src="/assets/stem.gif" alt="stem.gif" /> 🔬 &emsp; My research centers on **measurement invariance** — currently, I’m conducting a Monte Carlo simulation study comparing **MNLFA** and **SEM-Trees** for detecting DIF and invariance violations <br/><br/> 📚 &emsp; I have a strong academic background in **measurement theory** and psychometrics, with a growing interest in simulation-based methods and advanced latent variable modeling <br/><br/> ❤️ &emsp; I’m passionate about science communication, sharing methods knowledge, and open psychological research <br/><br/> 📧 &emsp; Reach me anytime: hagitte@mpib-berlin.mpg.de <br/><br/>
 </p>
 
 <br/>
