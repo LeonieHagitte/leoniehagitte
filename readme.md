@@ -28,7 +28,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Leonie+Hagitte">「 Google Me 」</a>
     <br>
-    「I am a PhD student in quantitative research methods/ Psychology at Goethe University Frankfurt, with research conducted in collaboration with the Max Planck Institute for Human Developmentand (LIFE Fellow) the MSB Medical School Berlin.」
+    「I am a PhD student in quantitative research methods/ Psychology at Goethe University Frankfurt, with research conducted in collaboration with the Max Planck Institute for Human Developmentand and the MSB Medical School Berlin. I am a fellow of the IMPRS LIFE graduate school.」
     <br>
     <br>
   </samp>
