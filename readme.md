@@ -37,7 +37,7 @@
 <!-- About Section -->
  # About me
  
-<p> <img align="right" width="340" src="/assets/peng.gif" alt="peng.gif" /> 🔬 &emsp; <span style="padding-left: 2em;">My research centers on <strong>Measurement Invariance</strong> — currently, I’m conducting a Monte Carlo simulation study comparing <strong>MNLFA</strong> and <strong>SEM-Trees</strong> for detecting DIF and invariance violations</span> <br/><br/> 📚 &emsp; I have an academic background in <strong>measurement/ diagnostics</strong> and psychometrics, with a growing interest in simulation-based methods and advanced latent variable modeling <br/><br/> ❤️ &emsp; I’m passionate about science communication, sharing methods knowledge, and open psychological research <br/><br/> 📧 &emsp; Reach me anytime: hagitte@mpib-berlin.mpg.de <br/><br/> 
+<p> <img align="right" width="340" src="/assets/peng.gif" alt="peng.gif" /> 🔬 &emsp; <span style="padding-left: 2em;">My research centers on <strong>Measurement Invariance</strong> — currently, I’m conducting a Monte Carlo simulation study comparing <strong>MNLFA</strong> and <strong>SEM-Trees</strong> for detecting DIF and invariance violations</span> <br/><br/> 📚 &emsp; I have an academic background in <strong>psychometrics</strong>, research methods and diagnostics, with a growing interest in simulation-based methods, science philosophy and advanced latent variable modeling <br/><br/> ❤️ &emsp; I’m passionate about science communication, sharing methods knowledge, and open psychological research <br/><br/> 📧 &emsp; Reach me anytime: hagitte@mpib-berlin.mpg.de <br/><br/> 
 </p>
 <br/>
 <br/>
